@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{17569BC0-BA3D-4CB2-9C90-BFC7D80AE395}</ProjectGuid>
+    <ProjectGuid>{9C2AB12B-7D12-42F0-B6CA-5CA91E05198F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DataTypes_FloatPointType</RootNamespace>
-    <AssemblyName>DataTypes-FloatPointType</AssemblyName>
+    <RootNamespace>MathematicalOperations</RootNamespace>
+    <AssemblyName>MathematicalOperations</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
