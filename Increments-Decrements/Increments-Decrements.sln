@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expressions", "Expressions\Expressions.csproj", "{17CA7581-FB0A-4259-AC5F-F593AF1F6798}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increments-Decrements", "Increments-Decrements\Increments-Decrements.csproj", "{C735CD34-A65D-4FBE-A8AD-478A1FDD23CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{17CA7581-FB0A-4259-AC5F-F593AF1F6798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17CA7581-FB0A-4259-AC5F-F593AF1F6798}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17CA7581-FB0A-4259-AC5F-F593AF1F6798}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17CA7581-FB0A-4259-AC5F-F593AF1F6798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C735CD34-A65D-4FBE-A8AD-478A1FDD23CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C735CD34-A65D-4FBE-A8AD-478A1FDD23CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C735CD34-A65D-4FBE-A8AD-478A1FDD23CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C735CD34-A65D-4FBE-A8AD-478A1FDD23CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F96D8B21-2DF7-4DDE-8B15-A5201AA97D76}
+		SolutionGuid = {AC44A2BA-A1FA-4FE1-80AB-F12E7A01E373}
 	EndGlobalSection
 EndGlobal

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{17CA7581-FB0A-4259-AC5F-F593AF1F6798}</ProjectGuid>
+    <ProjectGuid>{C735CD34-A65D-4FBE-A8AD-478A1FDD23CF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Expressions</RootNamespace>
-    <AssemblyName>Expressions</AssemblyName>
+    <RootNamespace>Increments_Decrements</RootNamespace>
+    <AssemblyName>Increments-Decrements</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
