@@ -10,18 +10,17 @@ namespace Do_While
     {
         static void Main(string[] args)
         {
-            /*  double mySalary = 1000.20, total = 0.0;
-              int i = 0;
-              do
-              {
-                  total += mySalary; // total = total + mySalary;
-                  i++;
-                  Console.WriteLine("i Values equal {0}", i);
 
-              }
-              while (i < 10);
-              Console.WriteLine("Salary Values equal {0}", total);
-              */
+            /*double MySalary = 1000.2, total = 0.0;
+            int i = 0;
+            do
+            {
+                total += MySalary; //total = total + MySalary
+                i++;
+                Console.WriteLine("i value equal {0}", i);
+            } while (i < 10);
+            Console.WriteLine("Salary value equal {0}", total);
+            Console.ReadKey();*/
 
             //حل التحدي
             double mySalary = 1020.0;
